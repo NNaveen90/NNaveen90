@@ -28,7 +28,7 @@ I'm **Naveen Nagilla** — a passionate **Java Developer** who loves building cl
 - 🧩 I treat every bug as a puzzle, and I **always find the missing piece**
 - 🌱 Currently deepening my expertise in **Spring Boot & Microservices**
 - 🎯 Goal: Build backend systems that **scale to millions**, not just hundreds
-- 📢 Sharing my dev journey through **YouTube, Medium & Instagram**
+- 🤝 Always open to **collaborations** and contributing to **open source**
 
 ---
 
@@ -418,9 +418,6 @@ I'm **Naveen Nagilla** — a passionate **Java Developer** who loves building cl
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-nagilla)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NNaveen90)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-%23000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/NNaveen90/Portfolio)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@NNaveen90)
-[![Medium](https://img.shields.io/badge/Medium-Read%20Articles-%2312100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@NNaveen90)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/NNaveen90)
 
 </div>
 
