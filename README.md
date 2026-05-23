@@ -88,7 +88,7 @@ I'm a passionate **Java Developer** who loves building clean, scalable backend s
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=NNaveen90&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="Naveen's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NNaveen90&theme=tokyonight&hide_border=true" width="49%" alt="Naveen's Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=NNaveen90&theme=tokyonight&hide_border=true" width="49%" alt="Naveen's Streak Stats" />
 
 </div>
 
