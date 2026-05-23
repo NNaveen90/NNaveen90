@@ -76,9 +76,7 @@ I'm a passionate **Java Developer** who loves building clean, scalable backend s
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-nagilla)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NNaveen90)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@NNaveen90)
-[![Medium](https://img.shields.io/badge/Medium-Read%20Articles-%2312100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@NNaveen90)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/NNaveen90)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itzz_navin_90)
 
 </div>
 
