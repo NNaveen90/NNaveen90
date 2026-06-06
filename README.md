@@ -76,6 +76,7 @@ I'm a passionate **Java Developer** who loves building clean, scalable backend s
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-nagilla)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NNaveen90)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-%23000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/JashwanthAare/Portfolio-Project)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itzz_navin_90)
 
 </div>
@@ -87,14 +88,17 @@ I'm a passionate **Java Developer** who loves building clean, scalable backend s
 
 <div align="center">
 
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=NNaveen90&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="Naveen's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=NNaveen90&theme=tokyonight&hide_border=true" width="49%" alt="Naveen's Streak Stats" />
+  <!-- FIX: Using the official anuraghazra repo instead of third-party salesp07 fork -->
+  <img src="https://github-readme-stats.vercel.app/api?username=NNaveen90&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="Naveen's GitHub Stats" />
+  <!-- FIX: git.io/streak-stats is more stable than demolab for API rate limits -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NNaveen90&theme=tokyonight&hide_border=true" width="49%" alt="Naveen's Streak Stats" />
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=NNaveen90&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" alt="Top Languages" />
+  <!-- FIX: Using the official anuraghazra repo -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NNaveen90&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" alt="Top Languages" />
 
 </div>
 
@@ -105,7 +109,8 @@ I'm a passionate **Java Developer** who loves building clean, scalable backend s
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=NNaveen90&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <!-- FIX: Added row=1 and reduced columns to 6 for better reliability; service can time out with column=7 -->
+  <img src="https://github-profile-trophy.vercel.app/?username=NNaveen90&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=15&row=1" alt="GitHub Trophies" />
 
 </div>
 
@@ -126,6 +131,7 @@ I'm a passionate **Java Developer** who loves building clean, scalable backend s
 
   <br/>
 
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+  <!-- FIX: Replaced unstable third-party SVG with a reliable capsule-render alternative -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
 
 </div>
