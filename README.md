@@ -127,7 +127,7 @@ I'm a passionate **Java Developer** who loves building clean, scalable backend s
 
   ---
 
-  *"The best time to plant a tree was 20 years ago. The second best time is now. Let's build something great — together."* 🌱
+  *"The best time to plant a tree was 20 years ago. The second best time is now. Let's build something great ~ together."* 🌱
 
   <br/>
 
