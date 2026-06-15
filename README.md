@@ -11,7 +11,7 @@
   <h1>Hey there! I'm <strong>Naveen Nagilla</strong></h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7BE&center=true&vCenter=true&width=600&lines=Java+Developer+%F0%9F%8E%AF;Backend+Craftsman+%7C+API+Architect;Building+Scalable+Solutions+%F0%9F%9A%80;Spring+Boot+%7C+REST+APIs+%7C+SQL;Clean+Code+%E2%9C%85+Clean+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7BE&center=true&vCenter=true&width=600&lines=Java+Developer+%F0%9F%8E%AF;Backend+Craftsman+%F0%9F%8D%86+API+Architect;Building+Scalable+Solutions+%F0%9F%9A%80;Spring+Boot+%7C+REST+APIs+%7C+SQL;Clean+Code+%E2%9C%85+Clean+Architecture" alt="Typing SVG" />
   </a>
 </div>
 
